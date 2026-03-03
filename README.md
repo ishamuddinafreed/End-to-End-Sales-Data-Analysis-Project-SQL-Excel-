@@ -34,3 +34,6 @@ Revenue Per Product Category
 Top 10 Customers by Revenue
 Revenue Per Sales Representative
 This project demonstrates my ability to transform raw relational data into meaningful business insights using SQL and Excel — bridging technical analysis with executive-level storytelling.
+
+Screenshot:
+
