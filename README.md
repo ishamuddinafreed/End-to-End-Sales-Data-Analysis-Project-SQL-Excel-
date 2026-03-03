@@ -36,4 +36,5 @@ Revenue Per Sales Representative
 This project demonstrates my ability to transform raw relational data into meaningful business insights using SQL and Excel — bridging technical analysis with executive-level storytelling.
 
 Screenshot:
+https://github.com/ishamuddinafreed/End-to-End-Sales-Data-Analysis-Project-SQL-Excel-/blob/main/the%20real%20excel%20out%20put.png
 
